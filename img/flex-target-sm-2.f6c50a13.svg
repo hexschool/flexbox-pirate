@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 92 92" style="enable-background:new 0 0 92 92;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;}
+	.st2{fill:#FFA6CE;stroke:#00251A;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<defs>
+		<rect id="SVGID_1_" width="92" height="92"/>
+	</defs>
+	<clipPath id="SVGID_2_">
+		<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+	</clipPath>
+	<g id="a" class="st0">
+		<rect class="st1" width="92" height="92"/>
+		<g transform="translate(-147 -1180)">
+			<rect x="191.1" y="1249" class="st2" width="3.8" height="11.5"/>
+			<rect x="216" y="1224.1" class="st2" width="11.5" height="3.8"/>
+			<rect x="191.1" y="1191.5" class="st2" width="3.8" height="11.5"/>
+			<path class="st2" d="M219.2,1231.8c-2.2,10.2-10.2,18.2-20.5,20.5v3.9c12.4-2.4,22-12,24.4-24.4H219.2z"/>
+			<path class="st2" d="M166.8,1220.3c2.2-10.2,10.2-18.2,20.5-20.5v-3.9c-12.4,2.4-22,12-24.4,24.4H166.8z"/>
+			<path class="st2" d="M198.8,1199.8c10.2,2.2,18.2,10.2,20.5,20.5h3.9c-2.4-12.4-12-22-24.4-24.4V1199.8z"/>
+			<path class="st2" d="M187.3,1252.2c-10.2-2.2-18.2-10.2-20.5-20.5h-3.9c2.4,12.4,12,22,24.4,24.4V1252.2z"/>
+			<rect x="158.5" y="1224.1" class="st2" width="11.5" height="3.8"/>
+			<path class="st2" d="M184.9,1234.1l-8.6,2.3l6.3,6.3L184.9,1234.1z"/>
+			<path class="st2" d="M201.1,1234.1l2.3,8.6l6.3-6.3L201.1,1234.1z"/>
+			<path class="st2" d="M201.1,1217.9l8.6-2.3l-6.3-6.3L201.1,1217.9z"/>
+			<path class="st2" d="M184.9,1217.9l-2.3-8.6l-6.3,6.3L184.9,1217.9z"/>
+		</g>
+	</g>
+</g>
+</svg>
