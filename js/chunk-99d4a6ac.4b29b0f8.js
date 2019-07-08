@@ -1,0 +1,18 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-99d4a6ac"],{2164:function(t,a,e){t.exports=e.p+"img/flex-pirate-ship-sm.f407e0cb.svg"},"59ca":function(t,a,e){"use strict";function n(t){return t&&"object"===typeof t&&"default"in t?t["default"]:t}e("95c6");var s=n(e("c23d"));
+/**
+ * @license
+ * Copyright 2018 Google Inc.
+ *
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ *
+ *   http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */t.exports=s},"672e":function(t,a,e){t.exports=e.p+"img/flex-pirate-ship-lg.a6907d37.svg"},"710e":function(t,a,e){"use strict";var n=e("9c4f"),s=e.n(n);s.a},"8fe8":function(t,a,e){"use strict";e.r(a);var n=function(){var t=this,a=t.$createElement,n=t._self._c||a;return n("div",{staticClass:"bg"},[n("div",{staticClass:"gameStart"},[n("img",{staticClass:"banner",attrs:{src:e("e630"),width:"100%",alt:""}}),n("div",{staticClass:"content"},[n("article",{staticClass:"animated zoomIn"},[n("h2",[t._v("新手村")]),n("img",{attrs:{src:e("2164"),alt:""}}),t._m(0),n("router-link",{staticClass:"btn btn-warning btn-lg rounded-0 start-btn",attrs:{to:"/simple"}},[t._v("\n          學好學滿\n        ")])],1),n("article",{staticClass:"animated zoomIn slow"},[n("h2",[t._v("老鳥村")]),n("img",{attrs:{src:e("672e"),alt:""}}),t._m(1),t.user.id?t._e():n("button",{staticClass:"btn btn-warning btn-lg rounded-0 start-btn",attrs:{"data-toggle":"modal","data-target":"#login2"}},[t._v("\n          馬上登入\n        ")]),t.user.id?n("router-link",{staticClass:"btn btn-warning btn-lg rounded-0 start-btn",attrs:{to:"/contest"}},[t._v("\n          馬上挑戰\n        ")]):t._e()],1)])]),n("div",{staticClass:"modal fade",attrs:{id:"login2",tabindex:"-1",role:"dialog","aria-labelledby":"loginLabel","aria-hidden":"true"}},[n("div",{staticClass:"modal-dialog modal-dialog-centered",attrs:{role:"document"}},[n("div",{staticClass:"modal-content"},[n("button",{staticClass:"btn btn-lg btn-outline-primary",attrs:{type:"submit"},on:{click:function(a){return t.loginClick()}}},[n("i",{staticClass:"fab fa-google"}),t._v(" 使用 google 繼續\n        ")])])])])])},s=[function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"info"},[e("h4",[t._v("每關附上對應教學網址，邊學邊玩，精通 flexbox")]),e("p",[t._v("共有 20 道關卡")])])},function(){var t=this,a=t.$createElement,e=t._self._c||a;return e("div",{staticClass:"info"},[e("h4",[t._v("計時大 PK，看誰最熟悉 flexbox，完成後成績可至排行榜觀看")]),e("p",[t._v("共有 30 道關卡")])])}],i=e("1157"),o=e.n(i),r=e("59ca"),l=e.n(r),c={name:"Way",props:["user"],data:function(){return{data:[]}},methods:{loginClick:function(){var t=l.a.auth(),a=this,e=new l.a.auth.GoogleAuthProvider;e.addScope("profile"),e.addScope("email"),t.signInWithPopup(e).then(function(t){var e={user:t.user};o()("#login2").modal("hide"),l.a.database().ref("users/".concat(e.user.uid)).set({email:e.user.email,displayName:e.user.displayName,photoURL:e.user.photoURL}),a.$router.push("/contest")}).catch(function(t){if("auth/account-exists-with-different-credential"===t.code){var a=t.email;console.log("google登入錯誤-使用者信箱：",a)}})}}},d=c,u=(e("710e"),e("2877")),f=Object(u["a"])(d,n,s,!1,null,"59d098f2",null);a["default"]=f.exports},"9c4f":function(t,a,e){},e630:function(t,a,e){t.exports=e.p+"img/flex-bg-cover.edd7e0c4.svg"}}]);
+//# sourceMappingURL=chunk-99d4a6ac.4b29b0f8.js.map

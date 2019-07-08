@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 92 92" style="enable-background:new 0 0 92 92;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;}
+	.st2{fill:#FFA6CE;stroke:#00251A;stroke-width:1.1;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="0" y="0" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -19.0538 46)" width="92" height="92"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="a" class="st0">
+			<rect x="0" y="0" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -19.0538 46)" class="st1" width="92" height="92"/>
+			<g transform="translate(-147 -1180)">
+				
+					<rect x="211.4" y="1240.6" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -818.8052 515.888)" class="st2" width="3.8" height="11.5"/>
+				
+					<rect x="207.6" y="1203.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -790.0552 503.9794)" class="st2" width="11.5" height="3.8"/>
+				
+					<rect x="170.8" y="1199.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -801.9639 475.2294)" class="st2" width="3.8" height="11.5"/>
+				<path class="st2" d="M215.6,1211.6c5.7,8.8,5.7,20.1,0,29l2.8,2.8c7.1-10.5,7.1-24,0-34.5L215.6,1211.6z"/>
+				<path class="st2" d="M170.4,1240.5c-5.7-8.8-5.7-20.1,0-29l-2.8-2.8c-7.1,10.5-7.1,24,0,34.5L170.4,1240.5z"/>
+				<path class="st2" d="M178.6,1203.4c8.8-5.7,20.1-5.7,29,0l2.8-2.8c-10.5-7.1-24-7.1-34.5,0L178.6,1203.4z"/>
+				<path class="st2" d="M207.5,1248.6c-8.8,5.7-20.1,5.7-29,0l-2.8,2.8c10.5,7.1,24,7.1,34.5,0L207.5,1248.6z"/>
+				
+					<rect x="166.9" y="1244.4" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -830.7139 487.138)" class="st2" width="11.5" height="3.8"/>
+				<path class="st2" d="M193,1237.5l-4.5,7.7h8.9L193,1237.5z"/>
+				<path class="st2" d="M204.5,1226l7.7,4.5l0-8.9L204.5,1226z"/>
+				<path class="st2" d="M193,1214.5l4.5-7.7h-8.9L193,1214.5z"/>
+				<path class="st2" d="M181.5,1226l-7.7-4.5l0,8.9L181.5,1226z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

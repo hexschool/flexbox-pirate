@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 92 92" style="enable-background:new 0 0 92 92;" xml:space="preserve">
+<style type="text/css">
+	.st0{clip-path:url(#SVGID_2_);}
+	.st1{fill:none;}
+	.st2{fill:#FFFDB0;stroke:#00251A;stroke-linecap:round;stroke-linejoin:round;}
+</style>
+<g>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="0" y="0" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -19.0538 46)" width="92" height="92"/>
+		</defs>
+		<clipPath id="SVGID_2_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g id="a" class="st0">
+			<g transform="translate(-32 -1180)">
+				
+					<rect x="32" y="1180" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -844.0673 414.2414)" class="st1" width="92" height="92"/>
+				<path class="st2" d="M78,1260.5l-4.5,7.7h8.9L78,1260.5z"/>
+				<path class="st2" d="M112.6,1225.9l7.7,4.5l0-8.9L112.6,1225.9z"/>
+				<path class="st2" d="M78,1191.5l4.5-7.7h-8.9L78,1191.5z"/>
+				<path class="st2" d="M43.5,1226l-7.7-4.5l0,8.9L43.5,1226z"/>
+				<path class="st2" d="M52.3,1203l8.1,8.1l2.7-2.7l-8.1-8.1c4.8-4.4,10.8-7.3,17.3-8.3l-0.1-3.9c-16.6,2.5-29.6,15.5-32.2,32.2
+					l3.9,0.1C45,1213.8,47.9,1207.8,52.3,1203z"/>
+				<path class="st2" d="M103.7,1249l-8.1-8.1l-2.7,2.7l8.1,8.1c-4.8,4.4-10.8,7.3-17.3,8.3l0.1,3.9c16.6-2.5,29.6-15.5,32.2-32.2
+					l-3.9-0.1C111,1238.2,108,1244.1,103.7,1249z"/>
+				<path class="st2" d="M63.1,1243.6l-2.7-2.7l-8.1,8.1c-4.4-4.8-7.3-10.8-8.3-17.3h-4c2.5,16.6,15.5,29.6,32.2,32.2l0-4
+					c-6.4-1.1-12.4-4-17.3-8.3L63.1,1243.6L63.1,1243.6z"/>
+				<path class="st2" d="M92.9,1208.4l2.7,2.7l8.1-8.1c4.4,4.8,7.3,10.8,8.3,17.3h4c-2.5-16.6-15.5-29.6-32.2-32.2l0,4
+					c6.4,1.1,12.4,4,17.3,8.3L92.9,1208.4L92.9,1208.4z"/>
+				<path class="st2" d="M92.5,1248.6c-8.8,5.7-20.1,5.7-29,0l-2.8,2.8c10.5,7.1,24,7.1,34.5,0L92.5,1248.6z"/>
+				<path class="st2" d="M63.6,1203.4c8.8-5.7,20.1-5.7,29,0l2.8-2.8c-10.5-7.1-24-7.1-34.5,0L63.6,1203.4z"/>
+				<path class="st2" d="M103.4,1243.2c7.1-10.5,7.1-24,0-34.5l-2.8,2.8c5.7,8.8,5.7,20.1,0,29L103.4,1243.2z"/>
+				<path class="st2" d="M52.7,1208.7c-7.1,10.5-7.1,24,0,34.5l2.8-2.8c-5.7-8.8-5.7-20.2,0-29L52.7,1208.7z"/>
+				<path class="st2" d="M85.6,1224h-5.8l0-5.8l-3.8,0l0,5.8h-5.8l0,3.8H76l0,5.8h3.8l0-5.8l5.8,0L85.6,1224z"/>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>
